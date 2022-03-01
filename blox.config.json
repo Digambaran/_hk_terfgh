@@ -1,0 +1,1 @@
+{"name":"terfgh","type":"function","source":{"https":"https://github.com/Digambaran/_hk_terfgh","ssh":"git@github.com:Digambaran/_hk_terfgh.git"},"language":"nodejs","start":"npm run start","build":"npm run build","postPull":"npm i"}
